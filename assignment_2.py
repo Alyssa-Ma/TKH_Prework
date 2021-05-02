@@ -1,4 +1,5 @@
 #Alyssa Ma Assignment_2
+#compare given list to 25, print if over or under 25
 
 #given over under list
 over_under_list = [1, 45, 32, 21, 5, 17, 43, 93]

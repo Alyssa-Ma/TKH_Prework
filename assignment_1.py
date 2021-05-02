@@ -1,4 +1,5 @@
 #Alyssa Ma Assignment_1
+#ask for user's name and shout them out
 
 #ask for user's name and take in the input
 user_name = input("What is your name?")
